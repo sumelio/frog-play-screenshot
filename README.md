@@ -16,3 +16,15 @@ Dos jugadores
 
 Juego de parejas
 ![Juego de parejas](https://github.com/sumelio/frog-play-screenshot/blob/master/4.png)
+
+Gallo tapado
+![Gallo tapado](https://github.com/sumelio/frog-play-screenshot/blob/master/5.png)
+
+Repetir juego
+![Repetir juego](https://github.com/sumelio/frog-play-screenshot/blob/master/6.png)
+
+Resumen
+![Resumen](https://github.com/sumelio/frog-play-screenshot/blob/master/7.png)
+
+Sorteo de campeonato
+![Sorteo de campeonato](https://github.com/sumelio/frog-play-screenshot/blob/master/8.png)
