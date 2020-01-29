@@ -28,3 +28,15 @@ Resumen
 
 Sorteo de campeonato
 ![Sorteo de campeonato](https://github.com/sumelio/frog-play-screenshot/blob/master/8.png)
+
+Sorteo de campeonato
+![Sorteo de campeonato](https://github.com/sumelio/frog-play-screenshot/blob/master/9.png)
+
+Campeonato enfrentamiento de cada grupo
+![Campeonato enfrentamiento de cada grupo](https://github.com/sumelio/frog-play-screenshot/blob/master/10.png)
+
+Jugador ganador
+![Jugador ganador](https://github.com/sumelio/frog-play-screenshot/blob/master/11.png)
+
+Finalistas campeonato
+![Finalistas campeonato](https://github.com/sumelio/frog-play-screenshot/blob/master/12.png)
